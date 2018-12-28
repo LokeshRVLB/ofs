@@ -24,7 +24,7 @@ public class Address {
 
     public String getStreet() {
         return street;
-    }
+    }https://docs.google.com/document/d/1HAZ4pAkergweIcU68RCTWowJ5WzXEL4PpKXcnZOvSlY/edit?usp=drivesdk
 
     public void setStreet(String street) {
         this.street = street;
